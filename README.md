@@ -55,6 +55,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mobassir816&show_icons=true&locale=en" alt="mobassir816" /></p>
 
-<br/><br/>
+<br><br>
 
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
