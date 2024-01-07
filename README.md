@@ -57,8 +57,4 @@
 
 <br/><br/>
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
