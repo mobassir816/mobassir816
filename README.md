@@ -49,6 +49,16 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobassir816&show_icons=true&locale=en&layout=compact" alt="mobassir816" /></p>
+
+<br><br>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mobassir816&show_icons=true&locale=en" alt="mobassir816" /></p>
 
 <br/><br/>
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
