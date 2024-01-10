@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mobassir+Hussain!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Mobassir+Hussain!;" />
 </h1>
 
 <h3 align="center">A passionate and creative Front-end developer from India</h3>
@@ -28,7 +28,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools : ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,mongodb,python,vscode,git,github,figma" />
@@ -43,3 +43,13 @@
 <div align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
 </div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🏆 GitHub Achievements & Trophies : 🏆</h2>
+<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=mobassir816&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
