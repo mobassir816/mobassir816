@@ -69,7 +69,11 @@
 <br/>
 
 <div align="center">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobassir816&show_icons=true&locale=en&layout=compact" alt="mobassir816" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobassir816&show_icons=true&locale=en" alt="mobassir816" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobassir816&" alt="mobassir816" /></p>
 </div>
 
 <br/>
